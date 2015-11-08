@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Colorsublime",
+		"Emmet",
+		"Laravel 5 Artisan",
+		"Material Theme",
+		"Package Control",
+		"PackageResourceViewer",
+		"PHP Companion",
+		"PHP Getters and Setters",
+		"SFTP",
+		"SublimeLinter",
+		"SublimeLinter-php"
+	]
+}
