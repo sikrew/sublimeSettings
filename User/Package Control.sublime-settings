@@ -7,6 +7,7 @@
 	[
 		"AdvancedNewFile",
 		"Colorsublime",
+		"DocBlockr",
 		"Emmet",
 		"Laravel 5 Artisan",
 		"Material Theme",
@@ -16,6 +17,7 @@
 		"PHP Getters and Setters",
 		"SFTP",
 		"SublimeLinter",
-		"SublimeLinter-php"
+		"SublimeLinter-php",
+		"Terminal"
 	]
 }

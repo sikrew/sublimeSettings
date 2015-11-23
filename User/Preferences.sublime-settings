@@ -1,7 +1,10 @@
 {
+	"bold_folder_labels": true,
+	"caret_style": "phase",
 	"color_scheme": "Packages/User/SublimeLinter/Facebook (SL).tmTheme",
 	"font_face": "Fira Code",
-	"font_size": 12,
+	"font_size": 13,
+	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -12,8 +15,8 @@
 		"draw_active"
 	],
 	"line_numbers": false,
-	"line_padding_bottom": 3,
-	"line_padding_top": 3,
+	"line_padding_bottom": 8,
+	"line_padding_top": 8,
 	"margin": 0,
 	"overlay_scroll_bars": "enabled",
 	"show_panel_on_build": false,
